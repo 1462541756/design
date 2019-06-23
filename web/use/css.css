@@ -1,0 +1,270 @@
+.totalDiv{
+    height: 1303px;
+    width: 1400px;
+    margin: auto
+}
+.mainTopDiv{
+    height: 253px;
+    width:1400px;
+    /*background: -webkit-linear-gradient(top,#FF0045,#FF2520,#FF7365);*/
+
+}
+.font{
+    font-size:30px;
+    color: white;
+}
+.mainMiddleDiv{
+    width: 1100px;
+    height: 1000px;
+    margin-left: 157px;
+    background-color: #e5fff8;
+}
+.mainBottomDiv{
+    width: 1400px;
+    height: 150px;
+    background-color: red;
+}
+.linkOfMain{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+.text{
+    text-align: center;
+    color: white;
+}
+.radio1{
+    background: blue;
+    height: 20px;
+    width: 20px;
+    margin-left: 900px;
+    border: 0;
+    text-align: left;
+}
+.radio2{
+    background-color: green;
+    height: 20px;
+    width: 20px;
+    margin-left: 20px;
+    border: 0;
+    text-align: left;
+}
+.radio3{
+    background-color: red;
+    height: 20px;
+    width: 20px;
+    margin-left: 20px;
+    border :0;
+    text-align: left;
+}
+.transparent{
+    color: rgba(0,0,0,0.4);
+}
+.textOfHomePage{
+    font-size: 20px;
+    margin-left: 10px;
+}
+.hrOfHomePage{
+    color: rgba(0,0,0,0.2);
+    margin-left: 20px;
+}
+.textOfTd{
+    margin-left: 30px;
+    height: 250px;
+}
+.divOfTd{
+    border-radius: 10px 10px 10px 10px;
+    background: -webkit-linear-gradient(top,#FFD8C0,white,white,white,white,white);
+    height: 250px;
+}
+.hrOfHomePage2{
+    color: rgba(0,0,0,0.2);
+    margin-left: 10px;
+}
+.divOfBottom{
+    height: 230px;
+    background: white;
+    margin-left: 10px ;
+    margin-top: 20px;
+    border-radius: 10px 10px 10px 10px;
+}
+.left{
+    float: left;
+    margin-top: 80px;
+    height: 62px;
+    width: 12px;
+}
+.right{
+    float: right;
+    margin-top: 80px;
+    height: 62px;
+    width: 12px;
+}
+.divOfIntroduceLeft{
+    text-align: center;
+    float: left;
+    margin-left: 10px;
+    margin-top: 30px;
+    width: 250px;
+    height: 430px;
+    background: #f0eef2;
+}
+.introduceLeftOne{
+    /*
+    background: -webkit-linear-gradient(top,#CB3234,#B00F00,red);
+    */
+    height: 40px;
+    font-size: 25px;
+    color: white;
+}
+.introduceLeftOther{
+    font-size: 15px;
+    width: 230px;
+    margin-left: 10px;
+
+}
+
+.divOfIntroduceRight{
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.level{
+    width: 640px;
+    text-align: right;
+}
+.hrOfIntroduce{//中间左边div中的横线
+    color: rgba(0,0,0,0.4);
+}
+.divOfTeamLeft{
+    text-align: center;
+    float: left;
+    margin-left: 10px;
+    margin-top: 30px;
+    width: 250px;
+    height: 430px;
+    background: #f0eef2;
+}
+.teamLeftOne{
+    /*
+    background: -webkit-linear-gradient(top,#CB3234,#B00F00,red);
+    */
+    height: 40px;
+    font-size: 25px;
+    color: white;
+}
+.teamLeftOther{
+    font-size: 15px;
+    width: 230px;
+    margin-left: 10px;
+}
+.divOfConstructionLeft{
+    text-align: center;
+    float: left;
+    margin-left: 10px;
+    margin-top: 30px;
+    width: 250px;
+    height: 430px;
+    background: #f0eef2;
+}
+.constructionLeftOne{
+    /*
+    background: -webkit-linear-gradient(top,#CB3234,#B00F00,red);
+    */
+    height: 40px;
+    font-size: 25px;
+    color: white;
+}
+.constructionLeftOther{
+    font-size: 15px;
+    width: 230px;
+    margin-left: 10px;
+}
+.divOfResourcesLeft{
+    text-align: center;
+    float: left;
+    margin-left: 10px;
+    margin-top: 30px;
+    width: 250px;
+    height: 430px;
+    background: #f0eef2;
+}
+.resourcesLeftOne{
+    /*
+    background: -webkit-linear-gradient(top,#CB3234,#B00F00,red);
+    */
+    height: 40px;
+    font-size: 25px;
+    color: white;
+}
+.resourcesLeftOther{
+    font-size: 15px;
+    width: 230px;
+    margin-left: 10px;
+}
+.divOfQuestionAndAnswerLeft{
+    text-align: center;
+    float: left;
+    margin-left: 10px;
+    margin-top: 30px;
+    width: 250px;
+    height: 430px;
+    background: #f0eef2;
+}
+.questionAndAnswerLeftOne{
+    /*
+    background: -webkit-linear-gradient(top,#CB3234,#B00F00,red);
+    */
+    height: 40px;
+    font-size: 25px;
+    color: white;
+}
+.questionAndAnswerLeftOther{
+    font-size: 15px;
+    width: 230px;
+    margin-left: 10px;
+}
+.divOfResearchLeft{
+    text-align: center;
+    float: left;
+    margin-left: 10px;
+    margin-top: 30px;
+    width: 250px;
+    height: 430px;
+    background: #f0eef2;
+}
+.researchLeftOne{
+    /*
+    background: -webkit-linear-gradient(top,#CB3234,#B00F00,red);
+    */
+    height: 40px;
+    font-size: 25px;
+    color: white;
+}
+.researchLeftOther{
+    font-size: 15px;
+    width: 230px;
+    margin-left: 10px;
+}
+#blueRight{
+    font-size: 15px;
+    display: none;
+    text-align: center;
+}
+#redRight{
+    font-size: 15px;
+    display: block;
+    text-align: center;
+}
+#greenRight{
+    font-size: 15px;
+    display: none;
+    text-align: center;
+}
+#changeDiv{
+    word-break:break-all;
+    width: 807px;
+}
+#changeTd{
+
+}

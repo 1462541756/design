@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    border: 0;
+}
+#whole{
+    width: 100%;
+}
+#bottom{
+    background: #01538c;
+    height: 100px;
+}
+#version input{
+    width: 35px;
+    height: 35px;
+    margin: 0px 0px -12px 0;
+}
+#version{
+    float: right;
+    margin-right: 10px;
+    margin-top: 7px;
+}
+a{
+    text-decoration: none;
+    color: #000000;
+}
